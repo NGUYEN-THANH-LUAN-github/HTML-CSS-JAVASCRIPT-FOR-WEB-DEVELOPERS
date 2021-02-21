@@ -4,8 +4,7 @@ Course URL: https://www.coursera.org/learn/html-css-javascript-for-web-developer
 
 Certificate of Completion: https://coursera.org/share/684975d1b0144fd9166e6892068df484
 
-<--Here are my past assignment submissions and a Ceritifcate of Completion-->
-
+<--Here are my past assignment submissions-->
 
 ★Module 2 Description: Create a simple responsive static website
 
