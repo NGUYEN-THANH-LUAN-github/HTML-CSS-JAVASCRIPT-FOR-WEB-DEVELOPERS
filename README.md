@@ -9,11 +9,11 @@ Course URL: https://www.coursera.org/learn/html-css-javascript-for-web-developer
 
 URL:
 
-★Module 3 Description: Work with Navbars
+★Module 3 Description: Work with Bootstrap
 
 URL:
 
-★Module 4 Description: Work with Javascript (looping over an array)
+★Module 4 Description: Work with the basics of Javascript (looping over an array)
 
 URL:
 
