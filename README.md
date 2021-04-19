@@ -1,8 +1,8 @@
-Course Title: HTML, CSS, JAVASCRIPT FOR WEB DEVELOPERS
+# Course Title: HTML, CSS, JAVASCRIPT FOR WEB DEVELOPERS
 
-Course URL: https://www.coursera.org/learn/html-css-javascript-for-web-developers
+Course [URL](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
-Certificate of Completion: https://coursera.org/share/684975d1b0144fd9166e6892068df484
+My [certificate](https://coursera.org/share/684975d1b0144fd9166e6892068df484) of completion.
 
 <--Here are my past assignment submissions-->
 
