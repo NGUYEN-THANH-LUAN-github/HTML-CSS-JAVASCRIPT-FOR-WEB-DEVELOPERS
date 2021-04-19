@@ -1,4 +1,4 @@
-# Course Title: HTML, CSS, JAVASCRIPT FOR WEB DEVELOPERS
+# Course Title: HTML, CSS, JAVASCRIPT FOR WEB DEVELOPERS - John Hopkins University
 
 Course info [here](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
